@@ -74,8 +74,8 @@ Key results include:
 - Jupyter Notebooks:  
   - Recipe Attribute Analysis  
   - Review Sentiment Analysis  
-- Final Report
-- Presentation Slides
+- Final Report (PDF)
+- Presentation Slides (PDF)
 
 ## What I Learned
 - Combining attribute-based and sentiment-based models provides stronger predictive power
