@@ -1,7 +1,7 @@
 # Recipe Ratings Analysis
 
 ## Overview
-This project explores which recipe attributes and user sentiments influence high ratings on a recipe-sharing platform. Using machine learning models on two Kaggle datasets—one with recipe features and the other with user reviews—we identify key drivers of recipe success. The analysis offers actionable insights for food bloggers, recipe platforms, and meal kit services to design recipes that better resonate with users.
+This project explores which recipe attributes and user sentiments influence high ratings on a recipe-sharing platform. Using machine learning models on two Kaggle datasets, one with recipe features and the other with user reviews—we identify key drivers of recipe success. The analysis offers actionable insights for food bloggers, recipe platforms, and meal kit services to design recipes that better resonate with users.
 
 Prepared by: Vy Nguyen, Kento Morita, Qui Nguyen, Aria Zhou, Sahil Chennadi, Yuheshwar Kamakkapalayam Subramani
 
